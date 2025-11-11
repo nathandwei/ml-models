@@ -1,0 +1,17 @@
+week: 1
+date: 2025-11-11
+dataset: iris
+model_type: random_forest
+techniques:
+  - grid_search
+  - cross_validation
+metrics:
+  accuracy: 0.95
+  f1_score: 0.94
+notes: |
+  Add your notes here. You can write multiple lines.
+  
+  Key learnings:
+  - What worked well
+  - What didn't work
+  - Ideas for next time
