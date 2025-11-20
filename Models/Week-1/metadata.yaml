@@ -1,0 +1,11 @@
+week: 1
+date: 2025-11-17
+dataset: titanic
+model_type: logistic_regression
+techniques:
+  - roc
+metrics:
+  accuracy: 
+  f1_score: 
+notes: |
+  n/a
